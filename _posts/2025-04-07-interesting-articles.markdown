@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "interesting blogs"
+title:  "interesting articles"
 date:   2025-04-07 13:49:02 +0530
 categories: jekyll update
 ---
