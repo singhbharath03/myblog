@@ -52,11 +52,9 @@ Even VCs who see the power law so closely miss it. All companies look almost sim
 
 only 1 % of new businesses in US are venture funded. total VC investment accounts for less than 0.2% of GDP. But these employ 11% of the private workforce, is about 12% of the GDP. The top 12 companies by m.cap are worth more than all others combined!
 
-```
-The traditional parlay that “it doesn’t matter what you do, as long as you do it well” is completely false. It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
-
-For the startup world, this means you should not necessarily start your own company, even if you are extraordinarily talented. The power law means that differences between companies will dwarf the differences in roles inside companies.
-```
+>The traditional parlay that “it doesn’t matter what you do, as long as you do it well” is completely false. It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
+>
+>For the startup world, this means you should not necessarily start your own company, even if you are extraordinarily talented. The power law means that differences between companies will dwarf the differences in roles inside companies.
 
 In a power law world, you cannot afford not to think hard about where your actions fall in the curve. 
 
@@ -74,15 +72,19 @@ examples of recent secrets
 - There might still be hidden injustices. In the 1900's most people didn't see slavery as evil, today it is the convention. 
 - most people did not believe the bubbles in 1999 and 2005.
 
-You can't find secrets without looking for them, Andrew wiles proved fermat's last theorem after it being unsolved for 358 years. The ideas for most of the recent great companies seem obvious in retrospect, this points to there being a lot more secrets. 
+You can't find secrets without looking for them, Andrew wiles proved Fermat's last theorem after it being unsolved for 358 years. The ideas for most of the recent great companies seem obvious in retrospect, this points to there being a lot more secrets. 
 
-Theil classifies secrets into 2 kinds, people secrets and nature secrets. `The best place to find secrets is where no one is looking.` Physics has been there for 100s of years and every university has a legitimate department for the same. You can say solve nutrition - no university has a nutirition deparment and there are real holes in our understanding of it today. 
+>The best place to find secrets is where no one is looking.
+
+Theil classifies secrets into 2 kinds, people secrets and nature secrets. Physics has been there for 100s of years and every university has a legitimate department for the same. You can say solve nutrition - no university has a nutrition department and there are real holes in our understanding of it today. 
 
 Tell secrets only to people you need to.
 
 ## Foundations
 
-`A startup messed up at it's foundation cannot be fixed.` If you don't have a history with your co-founders, you are just rolling dice. Founder conflict is just as ugly as divorce.
+>A startup messed up at it's foundation cannot be fixed.
+
+If you don't have a history with your co-founders, you are just rolling dice. Founder conflict is just as ugly as divorce.
 
 components of a business
 - ownership - who owns company's equity
@@ -97,18 +99,24 @@ Ideal board size for a startup is 3, max is 5. If you want an effective board - 
 
 You are either on the bus or off the bus. Avoid part time people, contractors - their incentives are misaligned, are there to extract current value and not create long term value. 
 
-`In no case should a CEO of an early-stage, venture-backed startup receive more than $150,000 per year in salary` . Cash poor CEOs are incentivized to create value, cash rich ones are incentivized to maintain the status quo. Bonuses are relatively better as they reward a job well done.
+>In no case should a CEO of an early-stage, venture-backed startup receive more than $150,000 per year in salary. 
+
+Cash poor CEOs are incentivized to create value, cash rich ones are incentivized to maintain the status quo. Bonuses are relatively better as they reward a job well done.
 
 everyone's value add is different and hence should have different equities. Keep it a secret to avoid chaos.
 
 ## Mechanics of the Mafia
 
-`“no company has a culture; every company is a culture”`. 
+>no company has a culture; every company is a culture. 
 
 The relationships b/w people working in a startup should be beyond transactional, you should enjoy working with your co-workers. If you don't have meaningful relationships, you haven't invested your time well - even in purely financial terms.
 
 Initial employees are lured with prominent roles and high equity. Why should the 20th employee join you?? Avoid generic answers like equity will be valuable, change the world etc, they don't help you stand out. Every good answer is specific to the company - the best answers are either about the team or the mission.
 
-`“From the outside, everyone in your company should be different in the same way.”` - helps the team work quickly and effectively together.
+>From the outside, everyone in your company should be different in the same way.` 
 
-`“On the inside, every individual should be sharply distinguished by her work.”` Every employee should do only one thing and he should be aware that he will only be evaluate based on that - simplifies management and reduces conflict.
+helps the team work quickly and effectively together.
+
+>On the inside, every individual should be sharply distinguished by her work. 
+
+Every employee should do only one thing and he should be aware that he will only be evaluate based on that - simplifies management and reduces conflict.
