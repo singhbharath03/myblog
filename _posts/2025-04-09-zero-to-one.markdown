@@ -47,8 +47,8 @@ The best investment in a VC fund returns more than that of all others combined. 
 Founders fund invests each fund into 6-7 companies only. 
 
 Even VCs who see the power law so closely miss it. All companies look almost similar even at mid fund, but by the end of the fund, the power law is very very clear.
-![](/assets/mid%20fund.png)
-![](/assets/mature%20fund.png)
+
+![](/assets/mid%20fund.png){: width="370" }![](/assets/mature%20fund.png){: width="370" }
 
 only 1 % of new businesses in US are venture funded. total VC investment accounts for less than 0.2% of GDP. But these employ 11% of the private workforce, is about 12% of the GDP. The top 12 companies by m.cap are worth more than all others combined!
 
