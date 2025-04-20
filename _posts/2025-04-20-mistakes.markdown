@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "mistakes"
+date:   2025-04-20 18:08:02 +0530
+categories: jekyll update
+---
+Hopefully I learn from these and avoid repeating them
+
+- being overly idealistic
+- being completely absorbed in the short term without regularly stepping back to view the bigger picture
+- no active effort into meeting interesting people
+- empathy
+- first impressions do matter - disregarding them
