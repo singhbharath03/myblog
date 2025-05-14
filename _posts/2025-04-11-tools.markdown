@@ -4,5 +4,4 @@ title:  "Tools"
 date:   2025-04-11 10:58:02 +0530
 categories: jekyll update
 ---
-- ebook reader with TTS - [readest](https://readest.com/)
 - [obsidian](https://obsidian.md/) for writing
